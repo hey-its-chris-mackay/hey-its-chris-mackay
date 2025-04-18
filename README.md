@@ -1,33 +1,45 @@
-# 👋 Hey, I'm Chris Mackay
+<p align="center">
+  <img src="https://madetoclick.design/images/profile.png" alt="Chris Mackay" width="140" style="border-radius: 50%;" />
+</p>
 
-Welcome to my GitHub! I'm a digital strategist and frontend developer with a focus on crafting user experiences that actually *click*. I combine UX thinking, empathy-driven research, and clean frontend code to bring digital ideas to life.
+<h1 align="center">Hey, it's Chris Mackay</h1>
 
-## 💡 What I Do
+<p align="center">
+  I'm a digital strategist & frontend developer focused on creating user experiences that actually <em>click</em>.
+</p>
 
-- 🎯 Digital Strategy & UX Planning  
-- 🧠 Empathy Mapping & Persona Development  
-- 💻 Frontend Development (HTML, CSS, Bootstrap, jQuery)  
-- 📱 Responsive Web Design  
-- 🛠 Prototyping & Interaction Design  
+## About Me
 
-## 🧰 Tech & Tools
+I'm passionate about blending empathy, design thinking, and clean front-end development to craft digital experiences that are not only functional—but meaningful.  
+I believe in starting with the user, understanding their journey, and building interfaces that support their goals every step of the way.
+
+## What I Do
+
+- Digital strategy & UX planning  
+- Empathy mapping & persona development  
+- Frontend development (HTML, CSS, Bootstrap, jQuery)  
+- Responsive UI design & prototyping  
+- UX writing & interface content strategy  
+
+## Tools & Technologies
 
 - HTML / CSS / JavaScript  
 - Bootstrap / jQuery  
-- Figma / Adobe XD  
 - Git / GitHub  
+- Figma / Adobe XD  
 - VS Code  
 
-## ✨ About *Made to Click*
+## More about me
 
-Over at [madetoclick.design](https://madetoclick.design), I showcase how strategy meets storytelling. Every project I take on starts with empathy and ends with impact.
+You can find more about me at  
+[madetoclick.design](https://madetoclick.design)  
 
-## 📫 Let’s Connect
+## Let’s Connect
 
-- Portfolio: [madetoclick.design](https://madetoclick.design)  
-- LinkedIn: [[linkedin.com/in/chrismackay](https://au.linkedin.com/in/chris-mackay-australia)
-- Email: [you@example.com](mailto:you@example.com)
+- LinkedIn: [linkedin.com/in/chrismackay](https://au.linkedin.com/in/chris-mackay-australia)  
+- Email: [heyitschrismackay@gmail.com](mailto:heyitschrismackay@gmail.com)
 
----
 
-Thanks for stopping by 👋
+<p align="center">
+  <em>Thanks for stopping by!</em>
+</p>
